@@ -1,0 +1,25 @@
+{
+  "name": "test-react",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "fernando"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.2",
+    "requirejs": "^2.3.2"
+  }
+}
